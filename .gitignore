@@ -1,0 +1,6 @@
+
+*.ipch
+*.opendb
+*.db
+msvc/Input Blocker/Lib/Interception/install-interception.exe
+msvc/Input Blocker/ReadMe.txt

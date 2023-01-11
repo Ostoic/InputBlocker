@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # InputBlocker
 A small Windows MFC GUI using the Interception driver for blocking input from HIDs.
 
